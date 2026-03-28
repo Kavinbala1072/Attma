@@ -1,7 +1,7 @@
 SQLServerType=True
-SQLServer=TASTR3LAP096\SQL2016
-SQLDBName=Test
+SQLServer=
+SQLDBName=
 LogoPanel=False
-BackupPath=D:\%Soft\Kavin\
-SQLUsername=sa
-SQLPassword=K@vin1072
+BackupPath=
+SQLUsername=
+SQLPassword=
