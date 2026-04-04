@@ -42,6 +42,11 @@ PASAP
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:PASAP.My.Resources.Resources.encrypted_phone">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:PASAP.My.Resources.Resources.icons8_add_item_48">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
